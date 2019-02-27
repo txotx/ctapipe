@@ -1,0 +1,11 @@
+<map id="inheritance9dacda3c0b" name="inheritance9dacda3c0b">
+<area shape="rect" id="node1" href="../../api/ctapipe.calib.camera.calibrator.CameraCalibrator.html#ctapipe.calib.camera.calibrator.CameraCalibrator" target="_top" title="Conveniance calibrator to handle the full camera calibration." alt="" coords="484,4,592,24"/>
+<area shape="rect" id="node2" title="Base class of all Components (sometimes called" alt="" coords="360,63,436,83"/>
+<area shape="rect" id="node3" href="../../api/ctapipe.calib.camera.dl0.CameraDL0Reducer.html#ctapipe.calib.camera.dl0.CameraDL0Reducer" target="_top" title="Parent class for the dl0 data volume reducers. Fills the dl0 container." alt="" coords="479,43,598,63"/>
+<area shape="rect" id="node4" href="../../api/ctapipe.calib.camera.dl1.CameraDL1Calibrator.html#ctapipe.calib.camera.dl1.CameraDL1Calibrator" target="_top" title="The calibrator for DL1 charge extraction. Fills the dl1 container." alt="" coords="474,82,602,102"/>
+<area shape="rect" id="node5" href="../../api/ctapipe.calib.camera.r1.CameraR1Calibrator.html#ctapipe.calib.camera.r1.CameraR1Calibrator" target="_top" title="The base R1&#45;level calibrator. Fills the r1 container." alt="" coords="477,121,599,141"/>
+<area shape="rect" id="node8" href="../../api/ctapipe.calib.camera.r1.HESSIOR1Calibrator.html#ctapipe.calib.camera.r1.HESSIOR1Calibrator" target="_top" title="The R1 calibrator for hessio files. Fills the r1 container." alt="" coords="643,82,761,102"/>
+<area shape="rect" id="node10" href="../../api/ctapipe.calib.camera.r1.NullR1Calibrator.html#ctapipe.calib.camera.r1.NullR1Calibrator" target="_top" title="A dummy R1 calibrator that simply fills the r1 container with the samples" alt="" coords="651,121,753,141"/>
+<area shape="rect" id="node11" href="../../api/ctapipe.calib.camera.r1.TargetIOR1Calibrator.html#ctapipe.calib.camera.r1.TargetIOR1Calibrator" target="_top" title="TargetIOR1Calibrator" alt="" coords="640,159,764,179"/>
+<area shape="rect" id="node9" title="The base class for all classes that have descriptors." alt="" coords="4,63,100,83"/>
+</map>

@@ -1,0 +1,23 @@
+ChargeExtractor
+===============
+
+.. currentmodule:: ctapipe.image
+
+.. autoclass:: ChargeExtractor
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~ChargeExtractor.check_neighbour_set
+      ~ChargeExtractor.extract_charge
+      ~ChargeExtractor.get_peakpos
+      ~ChargeExtractor.requires_neighbours
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: check_neighbour_set
+   .. automethod:: extract_charge
+   .. automethod:: get_peakpos
+   .. automethod:: requires_neighbours

@@ -1,0 +1,29 @@
+BaselineWaveformCleaner
+=======================
+
+.. currentmodule:: ctapipe.image.waveform_cleaning
+
+.. autoclass:: BaselineWaveformCleaner
+   :show-inheritance:
+
+   .. rubric:: Attributes Summary
+
+   .. autosummary::
+
+      ~BaselineWaveformCleaner.baseline_end
+      ~BaselineWaveformCleaner.baseline_start
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~BaselineWaveformCleaner.apply
+
+   .. rubric:: Attributes Documentation
+
+   .. autoattribute:: baseline_end
+   .. autoattribute:: baseline_start
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: apply

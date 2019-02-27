@@ -1,0 +1,21 @@
+CameraR1Calibrator
+==================
+
+.. currentmodule:: ctapipe.calib.camera
+
+.. autoclass:: CameraR1Calibrator
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~CameraR1Calibrator.calibrate
+      ~CameraR1Calibrator.check_r0_exists
+      ~CameraR1Calibrator.from_eventsource
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: calibrate
+   .. automethod:: check_r0_exists
+   .. automethod:: from_eventsource

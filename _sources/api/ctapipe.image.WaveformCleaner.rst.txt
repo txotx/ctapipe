@@ -1,0 +1,17 @@
+WaveformCleaner
+===============
+
+.. currentmodule:: ctapipe.image
+
+.. autoclass:: WaveformCleaner
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~WaveformCleaner.apply
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: apply
